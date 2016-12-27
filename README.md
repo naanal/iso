@@ -1,8 +1,4 @@
-Step 1: Mount And Copy ISO
-
-Step 2: Change the Menu
-
-Step 3: Prepare Seed File
+Tutorial: http://askubuntu.com/questions/409607/how-to-create-a-customized-ubuntu-server-iso
 
 	To Install apt-package:
 
