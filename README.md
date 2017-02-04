@@ -18,6 +18,6 @@ Tutorial: http://askubuntu.com/questions/409607/how-to-create-a-customized-ubunt
 
 Manual Configuration:
 
-Network Configuration
-hostname
-Disk Partition
+Network Configuration <br/>
+hostname <br/>
+Disk Partition <br/>
