@@ -14,3 +14,10 @@ Tutorial: http://askubuntu.com/questions/409607/how-to-create-a-customized-ubunt
 
 		tar -cvf docker_images.tar /var/lib/docker/aufs /var/lib/docker/image
 		tar -xvf docker_images.tar -C /var/lib/docker/
+
+
+Manual Configuration:
+
+Network Configuration
+hostname
+Disk Partition
